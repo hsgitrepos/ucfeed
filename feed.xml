@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hans's Homework Feed </title>
+    <link>https://yourwebsite.com</link>
+    <language>en-us</language>
+    <copyright>Hans Sahni</copyright>
+    <itunes:author>Hans Sahni</itunes:author>
+    <itunes:summary>Just homework listening.</itunes:summary>
+    <description>Just homework listening.</description>
+    <itunes:owner>
+      <itunes:name>Hans Sahni</itunes:name>
+      <itunes:email>hanssahni@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://drive.google.com/uc?export=download&id=1qp5Ss9oYqHFxj5gnUw15c6nt31TeTIzf"/>
+    <itunes:category text="Personal Journals"/>
+    <atom:link href="https://yourwebsite.com/yourfeed.xml" rel="self" type="application/rss+xml"/>
+
+    <!-- Episode 1 -->
+    <item>
+      <title>UC Episode 1</title>
+      <description>Description of episode 1.</description>
+      <pubDate>Tue, 10 Jun 2025 15:00:00 PDT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1Gga_qEIqKJXDU0XP1OPUI0bAjLpms27h" length="32288768" type="audio/mpeg"/>
+      <guid>https://yourstorage.com/path/to/episode1.mp3</guid>
+      <itunes:duration>33:39</itunes:duration>
+    </item>
+  </channel>
+</rss>
