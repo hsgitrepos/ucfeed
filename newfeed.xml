@@ -24,7 +24,7 @@
       <description>Description of episode 1.</description>
       <pubDate>Tue, 03 Jun 2025 15:00:00 -0700</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&id=1Gga_qEIqKJXDU0XP1OPUI0bAjLpms27h" length="32288768" type="audio/mpeg"/>
-      <guid>https://yourstorage.com/path/to/episode1.mp3</guid>
+      <guid>https://drive.google.com/uc?export=download&id=1Gga_qEIqKJXDU0XP1OPUI0bAjLpms27h</guid>
       <itunes:duration>33:39</itunes:duration>
     </item>
 <item>
@@ -60,6 +60,13 @@
       <enclosure url="https://drive.google.com/uc?export=download&id=1zIiEk8QBS2a6Z__UM69WWKjqem1b0DHn" length="39525515" type="audio/mpeg"/>
       <guid>https://drive.google.com/uc?export=download&id=1zIiEk8QBS2a6Z__UM69WWKjqem1b0DHn</guid>
       <pubDate>Sun, 08 Jun 2025 15:00:00 -0700</pubDate>
+    </item>
+         
+    <item>
+      <title>A Charming Southern Gentleman</title>
+      <enclosure url="https://drive.google.com/uc?export=download&id=15v5SWsdMeD3rg8gutdvieDp4j8P7hunm" length="16045213" type="audio/mpeg"/>
+      <guid>https://drive.google.com/uc?export=download&id=15v5SWsdMeD3rg8gutdvieDp4j8P7hunm</guid>
+      <pubDate>Sun, 02 Jul 2025 11:00:00 -0700</pubDate>
     </item>
   </channel>
 </rss>
