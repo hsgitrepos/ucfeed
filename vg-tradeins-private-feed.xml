@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Video Game Trade-Ins (Private Feed)</title>
+    <link>https://example.com/private-feed</link>
+    <language>en-us</language>
+    <copyright>2025 Hans</copyright>
+    <lastBuildDate>Thu, 14 Aug 2025 14:00:00 -0700</lastBuildDate>
+    <pubDate>Thu, 14 Aug 2025 14:00:00 -0700</pubDate>
+    <ttl>60</ttl>
+    <atom:link href="https://example.com/private-feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:author>Hans</itunes:author>
+    <itunes:summary>Private feed for hosting my own audio files.</itunes:summary>
+    <description>Private feed for hosting my own audio files.</description>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Hans</itunes:name>
+      <itunes:email>hanssahni@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Technology"/>
+    <!-- Optional artwork: set a permanent, publicly accessible image URL -->
+    <itunes:image href=""/>
+    <item>
+      <title>Danl Goodman</title>
+      <guid isPermaLink="false">1YGgsnJF33TJ825DppD9XwA-Aoi6hZCdH</guid>
+      <pubDate>Thu, 14 Aug 2025 14:00:00 -0700</pubDate>
+      <description>Danl Goodman</description>
+      <itunes:summary>Danl Goodman</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <!-- IMPORTANT: Replace length with the file size in BYTES -->
+      <enclosure url="https://drive.google.com/uc?export=download&id=1YGgsnJF33TJ825DppD9XwA-Aoi6hZCdH" length="REPLACE_WITH_FILE_SIZE_BYTES" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
