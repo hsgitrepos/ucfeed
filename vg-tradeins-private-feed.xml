@@ -12,8 +12,8 @@
     <ttl>60</ttl>
     <atom:link href="https://example.com/private-feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Hans</itunes:author>
-    <itunes:summary>Private feed for hosting my own audio files.</itunes:summary>
-    <description>Private feed for hosting my own audio files.</description>
+    <itunes:summary>Private feed for hosting the pilot for the video game trade-in podcast (temp title).</itunes:summary>
+    <description>Private feed for hosting the pilot for the video game trade-in podcast (temp title).</description>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner>
       <itunes:name>Hans</itunes:name>
