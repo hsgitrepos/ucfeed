@@ -20,8 +20,7 @@
       <itunes:email>hanssahni@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:category text="Technology"/>
-    <!-- Optional artwork: set a permanent, publicly accessible image URL -->
-    <itunes:image href=""/>
+    <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1h2jWhplvJYGdAQmS2BWMOvFqEBLB6SIs"/>
     <item>
       <title>Danl Goodman</title>
       <guid isPermaLink="false">1YGgsnJF33TJ825DppD9XwA-Aoi6hZCdH</guid>
@@ -29,8 +28,7 @@
       <description>Danl Goodman</description>
       <itunes:summary>Danl Goodman</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
-      <!-- IMPORTANT: Replace length with the file size in BYTES -->
-      <enclosure url="https://drive.google.com/uc?export=download&id=1YGgsnJF33TJ825DppD9XwA-Aoi6hZCdH" length="REPLACE_WITH_FILE_SIZE_BYTES" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1YGgsnJF33TJ825DppD9XwA-Aoi6hZCdH" length="94044160" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
