@@ -19,6 +19,14 @@
     <atom:link href="https://yourwebsite.com/yourfeed.xml" rel="self" type="application/rss+xml"/>
 
 <item>
+  <title>The 5 Types of Wealth</title>
+  <description></description>
+  <pubDate>Fri, 22 Aug 2025 14:00:00 -0700</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&id=1VKCAJ1SPJS6MI-E7HC5zN3bFeCJGCmTp" length="35232154" type="audio/mpeg" />
+  <guid>1VKCAJ1SPJS6MI-E7HC5zN3bFeCJGCmTp-202508221400</guid>
+</item>
+
+<item>
   <title>1-2-3 Magic</title>
   <description></description>
   <pubDate>Fri, 22 Aug 2025 11:00:00 -0700</pubDate>
@@ -103,4 +111,5 @@
        
   </channel>
 </rss>
+
 
