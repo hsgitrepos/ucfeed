@@ -19,6 +19,14 @@
     <atom:link href="https://yourwebsite.com/yourfeed.xml" rel="self" type="application/rss+xml"/>
 
 <item>
+  <title>1-2-3 Magic</title>
+  <description></description>
+  <pubDate>Fri, 22 Aug 2025 11:00:00 -0700</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&id=11ObwEcHUS7RTsLw7-xKc23WiFRr8v_JE" length="38168166" type="audio/mpeg" />
+  <guid>11ObwEcHUS7RTsLw7-xKc23WiFRr8v_JE-202508221100</guid>
+</item>
+
+<item>
   <title>Blitzed: The Rise &amp; Fall of Med Men</title>
   <description></description>
   <pubDate>Mon, 21 Jul 2025 13:50:00 -0700</pubDate>
@@ -95,3 +103,4 @@
        
   </channel>
 </rss>
+
